@@ -1,5 +1,5 @@
 # == Turtle's Winfetch config ==
-# == Released under the Unlicense ==
+# == Released under the GNU GPLv3 ==
 # == Turtle image part of the Twemoji project ==
 # == and released under CC-BY 4.0 ==
 # == https://creativecommons.org/licenses/by/4.0/ ==
