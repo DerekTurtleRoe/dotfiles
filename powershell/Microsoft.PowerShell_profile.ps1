@@ -167,6 +167,3 @@ function pkill($name) {
 function pgrep($name) {
         Get-Process $name
 }
-
-## Final Line to set prompt
-## oh-my-posh --init --shell pwsh --config ~/tokyo.omp.json | Invoke-Expression
