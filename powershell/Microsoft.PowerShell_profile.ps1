@@ -167,3 +167,5 @@ function pkill($name) {
 function pgrep($name) {
         Get-Process $name
 }
+
+Invoke-Expression (&starship init powershell)
